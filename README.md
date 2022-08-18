@@ -4,6 +4,6 @@ Tells a joke. We call a joke API to get a random joke and pass that to a text to
 
 ![Preview](preview.png)
 
-Live - https://overdrivemachines.github.io/picture-in-picture/
+Live - https://overdrivemachines.github.io/joke-teller/
 
 ## References
